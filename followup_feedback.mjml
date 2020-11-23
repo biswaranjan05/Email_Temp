@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; } .alig{ display:inline; }
+    i{
+        color:red;
+        font-size:14px;
+    }
+    b{
+      margin-left:18px;
+    }
+   p{
+      margin-left:1px;
+    margin-top:30px;
+    margin-bottom:150px;
+    }
+  
+    body{
+                margin:o;
+                padding: 0;
+                display:flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                font-family: arial;
+              
+            }
+           
+            p{
+                margin-bottom: 30px;
+                padding: 0;
+                font-size: 17px;
+                margin-left:18px;
+            }
+            strong{
+              font-size:25px;
+            }
+            
+           
+           
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#0B08CE">
+    <!-- <mj-section background-color="#2a5cab" padding="10px 0">
+      <mj-column width="23%">
+        <mj-image src="https://rentastico.com/assets/img/features/icon/rentastico.png" alt="logo" width="150px" padding="10px 0"></mj-image>
+      </mj-column>
+    </mj-section> -->
+    <mj-section padding-top="20px" padding-bottom="20px" background-color="#0B08CE">
+     
+      <mj-text align="center" font-size="17px" padding-top="20px" color="white">&nbsp;  If you are unable to see this message <a href="">click here</a><br></br></mj-text><br></br><br></br>
+         <mj-column  width="23%">
+        <mj-image  src="assets/hey.jpg" alt="logo" width="150px" padding-top="15px" padding-bottom="20px"></mj-image>
+      </mj-column>
+      <mj-text font-size="15px" color="white"><b>Dear customer,</b><br></br><b>We are glad you chose Rentastico for vacation from Bhubaneswar to Ibiza.<br></br></b></mj-text>
+      <mj-column width="100%" class="box">
+     <mj-text font-size="15px" color="white"><p>Based on your travel experience, how likely are you to recommend Rentastico to your family and friends?</p></mj-text>
+        <mj-table>
+        <tr style="border:1px solid black;background-color:white;background: linear-gradient(to right, rgb(247, 8, 8),rgb(236, 221, 3), rgb(21, 207, 5) ); cursor: pointer;"class="hh">
+        <td style="border:1px solid black;">10%</td>
+        <td style="border:1px solid black;">20%</td>
+        <td style="border:1px solid black;">30%</td>
+        <td style="border:1px solid black;">40%</td>
+        <td style="border:1px solid black;">50%</td>
+        <td style="border:1px solid black;">60%</td>
+        <td style="border:1px solid black;">70%</td>
+        <td style="border:1px solid black;">80%</td>
+        <td style="border:1px solid black;">90%</td>
+        <td style="border:1px solid black;">100%</td style="border:1px solid black;">
+        </tr>
+        </mj-table>
+           <!-- <mj-text padding-left="30px" ><strong> Ratings * * * * *</strong></mj-text> -->
+      </mj-column>
+      
+     <mj-column padding-top="30px" padding-bottom="30px" width="100%">
+      <mj-text font-size="17px" color="white"><b>Complaint or compliment, we'd love to hear from you.</b><br></br><br></mj-text>
+      <mj-text font-size="15px" color="white"><b>Warm regards,</b><br></br><b>Customer Relations.</b><br></br></mj-text>
+     </mj-column>
+     <mj-divider border-color="white"  border-width="2px" border-style="solid" padding-left="20px" padding-right="20px" padding-bottom="0px" padding-top="0" width="250px"></mj-divider>
+      </mj-section>
+    
+
+           
+     <mj-section background-color="#0B08CE">
+       <mj-column align="center" width="76%" height="30px" padding="10px">
+       <mj-text align="center" font-size="17px" color="white">Follow Us</mj-text>
+                <mj-social padding-bottom="10px" font-size="15px" icon-size="25px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://mjml.io/">&nbsp;
+         
+          </mj-social-element>
+          <mj-social-element name="google" href="https://mjml.io/">&nbsp;
+       
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://mjml.io/">&nbsp;
+        </mj-social-element>
+        <mj-social-element name="pinterest" href="https://mjml.io/">
+            
+          </mj-social-element>
+
+        </mj-social>
+        <mj-text color="white">You are receiving this email because you are on the IndiGo database.</mj-text>
+        <mj-text align="center" color="white">©2020 Rentastico. All rights reserved.</mj-text>
+      </mj-column>
+
+    </mj-section> 
+  </mj-body>

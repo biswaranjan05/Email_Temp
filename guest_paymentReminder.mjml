@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; } .alig{ display:inline; }
+     b{
+         margin-left:12px;
+     }
+     p{
+         margin-left:26px;
+         font-size:18p
+     }
+     strong{
+         font-size:15px;
+     }
+     h{
+         color:black
+     }
+     i{
+         margin-left:13px;
+         color:black;
+     }
+    
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+  <mj-section>
+   <mj-column padding-top="20px">
+    <mj-text  font-size="17px"><b> Your reservation has been cancelled. </b><br></br></mj-text>
+    <mj-text color="green" font-size="17px"> Date of cancellation 24/04/2020 <br></br></mj-text>
+    <mj-text ><b>Reason: Non -payment of reservation balance.</b><br><br><i>Deposits will be refunded in accordance withcancellation policies.Any booking and /or credit card fees are non-refundable </i>  <br><br></mj-text>
+    <mj-text font-size="17px" color="green">&nbsp;Reservation Detail: <br> </mj-text>
+    <mj-text font-size="15px" color="green"> <p>Property Profile # 123456<br></br><br>&nbsp;Name:  First User<br></br> &nbsp;Check in: 28/05/2020<br></br>&nbsp;Check out:  19/06/2020<br></br>&nbsp;No of guests: 05</mj-text>
+    <mj-text color="green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Cancellation policy type/<strong> Regular 30 days</strong></p><br></mj-text>
+    <mj-text> &#10004; <b> You have canceled (outside) of the cancellation policy period and you will be entitled to a <br><br>&nbsp;&nbsp;&nbsp; full refund within 48 hrs accordingly to Rentastico policies. <br></br>  </mj-text>
+      <mj-text> &#10004; <b> Your have canceled (within) the cancellation policy period and you will not be entitled to a <br><br>&nbsp;&nbsp;&nbsp; full refund in accordance to Rentastico cancellation policies . </b><br></bdhdcc ggsj mgg br bbvnnb ggr b nhvyh fgb  dhvfnh dgbd  we wibr><i>&nbsp;&nbsp;Please contact owner regarding our pro –active programs to re sell your cancelled reservation.</i>    </mj-text>
+   </mj-column>
+  </mj-section>
+  </mj-body>

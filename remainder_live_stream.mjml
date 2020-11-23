@@ -1,0 +1,47 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+     
+      p{
+      font-size:20px
+      }
+      i{
+       font-size:20px;
+      font-family:"Lato, Helvetica, Arial, sans-serif";
+      }
+      span{
+          font-size:16px;
+          color:darkcyan;
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fff" width="1000px">
+    <mj-include path="{{header}}" />
+    <mj-section border="1px solid #a6a6a6">
+      
+      <mj-column>
+         <mj-image width="300px" src="https://www.springforeststudio.com/wp-content/uploads/2018/11/062001.png" />
+        
+        <mj-text font-size="25px"><b>DATE</b> : <br> <p> Friday <br> July 30/07/2020 </br></p></mj-text>
+  
+          <mj-text font-size="20px" padding-top="0px"><b>TIME :</b> 6:30 PM IST</mj-text>
+         
+                  <mj-divider border-width="2px" width="76%" border-style="solid" border-color="lightgrey" />
+          <mj-text><i>This is a reminder for Live Streaming.</i> </mj-text>
+          <mj-text font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif">1 day is left for the Live Stream.</b> </mj-text>
+          <mj-text><b>Add to calender : </b><span> Google Calender | iCal</span></mj-text>
+          
+          <mj-text font-size="17px"><b>How to join the Live Stream?</b></mj-text>
+          <mj-text font-size="15px"><b>1. Click the link to join Live Streaming at the specified time and date.</mj-text>
+            <mj-button font-family="Helvetica" background-color="blue" color="white">
+              Join Live Stream
+         </mj-button>
+            
+          
+      </mj-column>
+          
+    </mj-section>
+    <mj-include path="{{footer}}" />
+  </mj-body>
+</mjml>

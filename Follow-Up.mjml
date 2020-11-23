@@ -1,0 +1,19 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; } .alig{ display:inline; }
+    </mj-style>
+  </mj-head>
+  <mj-body  background-color="#0B0460">
+    <mj-section >
+    <mj-text color="#E5E2E2">If you are unable to view this message, <a href="">click here</a></mj-text>
+    <mj-column width="100%">
+        <mj-image align="start" src="https://rentastico.com/assets/img/features/icon/rentastico.png" alt="logo" width="150px" padding="10px "></mj-image>
+      </mj-column>
+      <mj-text color="#E5E2E2"> Dear Customer,<br></br> We are glad you choose Rentastico for your vacation to Ibiza.<br></br>Based on your travel experience,how likely are you to recommend Rentastico to your family and friends?
+    </mj-section>
+  </mj-body>
+  </mjml>

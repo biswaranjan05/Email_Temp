@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; } .alig{ display:inline; }
+     b{
+         margin-left:17px;
+     }
+     p{
+         margin-left:26px;
+         font-size:18p
+     }
+     strong{
+         font-size:15px;
+     }
+     i{
+         color:#BB0101;
+         margin-left:18px;
+         text-decoration:underline;
+     }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+  <mj-section>
+   <mj-column padding-top="20px">
+    <mj-text color="green" font-size="17px"><b>You have received in full a payment of  $1700.</b><br></br></mj-text>
+    <mj-text font-size="17px" color="green">&nbsp;Reservation Detail: <br> </mj-text>
+    <mj-text font-size="15px" color="green"> <p>Property Profile # 123456<br></br><br>&nbsp;Name:  First User<br></br> &nbsp;Check in: 28/05/2020<br></br>&nbsp;Check out:  19/06/2020<br></br>&nbsp;No of guests: 05</mj-text>
+    <mj-text color="green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancellation policy type <strong>/ Regular </strong></p><br></mj-text>
+   </mj-column>
+  </mj-section>
+  </mj-body>
